@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Henry Blake, a Junior Developer
+# Hi there! 👋 I'm Qihan Wang, a Junior Developer
 
 I'm passionate about **Web Development, Mobile Development, and Game Design & Development**. Currently, I'm learning and improving my skills while actively looking for professional opportunities in these areas. 🚀
 
@@ -8,7 +8,7 @@ I'm passionate about **Web Development, Mobile Development, and Game Design & De
 - 📚 Always open to **collaborating on projects** and learning from experienced developers.
 
 ### 🌐 Web Development
-- Frontend: **React, Vite, Tailwind CSS**
+- Frontend: **React, Vite, WordPress**
 - Backend: **Node.js, Express.js**
 - Database: **Firebase, PostgreSQL**
 
