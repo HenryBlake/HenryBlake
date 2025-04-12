@@ -9,8 +9,8 @@ I'm passionate about **Web Development, Mobile Development, and Game Design & De
 
 ### 🌐 Web Development
 - Frontend: **React, Vite, WordPress**
-- Backend: **Node.js, Express.js**
-- Database: **Firebase, PostgreSQL**
+- Backend: **Django**
+- Database: **Firebase, Mysql**
 
 ### 📱 Mobile Development
 - **React Native, Jetpack Compose (Learning), React and other framworks (Exploring)**
